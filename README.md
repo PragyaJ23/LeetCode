@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PragyaJ23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/PragyaJ23/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PragyaJ23/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/PragyaJ23/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PragyaJ23/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PragyaJ23/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/PragyaJ23/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/PragyaJ23/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/PragyaJ23/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/PragyaJ23/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PragyaJ23/LeetCode/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PragyaJ23/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PragyaJ23/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
