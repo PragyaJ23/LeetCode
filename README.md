@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PragyaJ23/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/PragyaJ23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/PragyaJ23/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/PragyaJ23/LeetCode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PragyaJ23/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PragyaJ23/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/PragyaJ23/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
